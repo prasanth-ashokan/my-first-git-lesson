@@ -1,0 +1,2 @@
+first commit to git.
+i am learning git.
