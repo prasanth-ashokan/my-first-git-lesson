@@ -2,3 +2,4 @@ first commit to git.
 i am learning git.
 created first branch.
 i am merging this branch with master.
+i am pushing to github.
